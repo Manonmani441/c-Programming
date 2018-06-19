@@ -10,7 +10,7 @@ sum=sum+(t*t*t);
 n=n/10;
 }
 if(sum==b)
-System.out.println("yes");
+printf("yes");
 else
-System.out.println("no");
+printf("no");
 }
